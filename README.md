@@ -1,1 +1,1 @@
-IBM Data Science Course Assignments - Courseera
+IBM Data Science Course Assignments - Coursera
